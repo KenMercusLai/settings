@@ -1,0 +1,411 @@
+[sources.3]
+aka = ["Hi, DIYgod"]
+url = "https://diygod.me/atom.xml"
+
+[sources.4]
+aka = ["Hwchiu Learning Note"]
+url = "https://www.hwchiu.com/atom.xml"
+
+[sources.5]
+aka = ["Kakashi's Notes"]
+url = "https://kkc.github.io/atom.xml"
+
+[sources.6]
+aka = ["Lindsay Hill"]
+url = "https://lkhill.com/feed/index.xml"
+
+[sources.7]
+aka = ["Low Score Boy"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC1BjrXqfmHmBkM2FjBTdg-w"
+
+[sources.8]
+aka = ["MadcatClan"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC4P8jsqloj9e6eYCLz0yr7Q"
+
+[sources.9]
+aka = ["Martin Fowler"]
+url = "https://martinfowler.com/feed.atom"
+
+[sources.10]
+aka = ["Nolla"]
+url = "https://cmgs.me/feed.xml"
+
+[sources.11]
+aka = ["Posts on Nova Kwok's Awesome Blog"]
+url = "https://nova.moe/feed"
+
+[sources.12]
+aka = ["Retro Game Mechanics Explained"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g"
+
+[sources.13]
+aka = ["Rss Feed - 苏洋博客"]
+url = "https://soulteary.com/feed/"
+
+[sources.14]
+aka = ["Scateu Blog - S.B."]
+url = "http://scateu.github.io/feed.xml"
+
+[sources.15]
+aka = ["Strange Parts"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCO8DQrSp5yEP937qNqTooOw"
+
+[sources.16]
+aka = ["Stratechery by Ben Thompson"]
+url = "https://stratechery.com/feed/"
+
+[sources.17]
+aka = ["Summoning Salt"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCtUbO6rBht0daVIOGML3c8w"
+
+[sources.18]
+aka = ["TROOPERScon"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCPY5aUREHmbDO4PtR6AYLfQ"
+
+[sources.19]
+aka = ["TauCeti blog"]
+url = "https://www.tauceti.blog/index.xml"
+enabled = false
+
+[sources.20]
+aka = ["TeamNANOG"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCIvcN8QNgRGNW9osYLGsjQQ"
+
+[sources.21]
+aka = ["What's Next｜科技早知道"]
+url = "https://feeds.fireside.fm/guiguzaozhidao/rss"
+
+[sources.22]
+aka = ["WonderWhy"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCcEPmwpXKrKzZahqjwpIAsQ"
+
+[sources.23]
+aka = ["Zlatan Eevee"]
+url = "https://ieevee.com/feed.xml"
+
+[sources.24]
+aka = ["codinghorror"]
+url = "https://feeds.feedburner.com/codinghorror"
+
+[sources.25]
+aka = ["forecho 的独立博客"]
+url = "https://blog.forecho.com/atom.xml"
+
+[sources.26]
+aka = ["iKoo's Dirty life"]
+url = "https://feeds.feedburner.com/gythialy"
+
+[sources.27]
+aka = ["iTimothy"]
+url = "https://xiaozhou.net/atom.xml"
+
+[sources.28]
+aka = ["ipSpace.net Blog Posts"]
+url = "http://feed.ipspace.net/blog/"
+
+[sources.29]
+aka = ["lijiaocn.github.io"]
+url = "https://www.lijiaocn.com/feed.xml"
+
+[sources.30]
+aka = ["manateelazycat.github.io"]
+url = "https://manateelazycat.github.io/feed.xml"
+
+[sources.31]
+aka = ["rss.xml"]
+url = "https://boz.com/rss.xml"
+
+[sources.32]
+aka = ["rule 11 reader"]
+url = "http://rule11.tech/feed/"
+
+[sources.33]
+aka = ["sleele的博客"]
+url = "https://sleele.com/feed/"
+enabled = false
+
+[sources.34]
+aka = ["中外名案精选"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCzyFVLlEwO3jvd2sUkDj4Sg"
+
+[sources.35]
+aka = ["中指通"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCYjB6uufPeHSwuHs8wovLjg"
+
+[sources.36]
+aka = ["云原生实验室"]
+url = "https://fuckcloudnative.io/index.xml"
+
+[sources.37]
+aka = ["八荒印痕OctoEast"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCYGGdARbsNbWX2nI703Ga3Q"
+
+[sources.38]
+aka = ["冲浪普拉斯"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCZNxe_9FQAK2Z3suwaZlwpQ"
+
+[sources.39]
+aka = ["吴良超的学习笔记"]
+url = "http://wulc.me/atom.xml"
+
+[sources.40]
+aka = ["四火的唠叨"]
+url = "https://www.raychase.net/feed"
+enabled = false
+
+[sources.41]
+aka = ["暖风游戏厅"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCwGPvDUACEwGARFid2t-cfw"
+
+[sources.42]
+aka = ["国光"]
+url = "https://www.sqlsec.com/atom.xml"
+enabled = false
+
+[sources.43]
+aka = ["土豆不好吃"]
+url = "https://dmesg.app/feed"
+
+[sources.44]
+aka = ["宇宙的心弦"]
+url = "https://www.physixfan.com/feed/"
+
+[sources.45]
+aka = ["寒雁"]
+url = "https://kiwenlau.com/atom.xml"
+enabled = false
+
+[sources.46]
+aka = ["木子"]
+url = "https://blog.k8s.li/atom.xml"
+
+[sources.47]
+aka = ["杜屹东的博客"]
+url = "https://www.duyidong.com/atom.xml"
+
+[sources.48]
+aka = ["森纳映画"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCDNeEBgigHHGtJJOpHSnadA"
+
+[sources.49]
+aka = ["水晶命匣"]
+url = "http://ghoulich.xninja.org/feed"
+
+[sources.50]
+aka = ["游研社YYSTV"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCnq0zNFkSa8YFc3f1-7Q3mg"
+
+[sources.51]
+aka = ["王子亭的博客"]
+url = "https://jysperm.me/atom.xml"
+
+[sources.52]
+aka = ["生产力维基"]
+url = "https://productivity.wiki/feed/podcast"
+
+[sources.53]
+aka = ["红酒汤姆一世"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCJT6M5j-HT-76ts0eTzZtJw"
+
+[sources.54]
+aka = ["约伊兹的萌狼乡手札"]
+url = "https://blog.yoitsu.moe/feeds/all.atom.xml"
+
+[sources.55]
+aka = ["美食作家王刚"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0m_Ah8P_MQbnn77-vYnYw"
+
+[sources.56]
+aka = ["老裁缝陆林冲"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC8OLOWcQhNmw_BgRFKrOwpw"
+
+[sources.57]
+aka = ["自得琴社 Zi De Guqin Studio"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCltmf0pqjXyLtNsF2vek_wQ"
+
+[sources.58]
+aka = ["茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。"]
+url = "https://maiyang.me/index.xml"
+
+[sources.59]
+aka = ["酷 壳 – CoolShell"]
+url = "http://coolshell.cn/feed"
+
+[sources.60]
+aka = ["高策"]
+url = "http://gaocegege.com/Blog/rss.xml"
+
+[sources.61]
+aka = ["Fastly Blog"]
+url = "https://www.fastly.com/blog_rss.xml"
+
+[sources.62]
+aka = ["HBR IdeaCast"]
+url = "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
+
+[sources.63]
+aka = ["Teahour"]
+url = "https://feeds.fireside.fm/teahour/rss"
+
+[sources.64]
+aka = ["The Python Data & Science Podcast.__init__"]
+url = "https://www.podcastinit.com/feed/mp3/"
+
+[sources.65]
+aka = ["Think Fast, Talk Smart: Communication Techniques."]
+url = "https://rss.art19.com/think-fast-talk-smart"
+
+[sources.66]
+aka = ["ggtalk"]
+url = "https://talkcdn.swift.gg/static/rss.xml"
+disabled = true
+
+[sources.67]
+aka = ["内核恐慌"]
+url = "https://pan.icu/feed"
+
+[sources.68]
+aka = ["天才捕手FM"]
+url = "https://s1.proxy.wavpub.com/storyhunting.xml"
+
+[sources.69]
+aka = ["小人物 A Nobody"]
+url = "https://anobody.im/podcast/rss.xml"
+
+[sources.70]
+aka = ["捕蛇者说"]
+url = "https://pythonhunter.org/episodes/feed.xml"
+
+[sources.71]
+aka = ["疯投圈"]
+url = "https://crazy.capital/feed"
+
+[sources.72]
+aka = ["绵羊料理"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCiAuybSv94YrdXhrGECtAxQ"
+
+[sources.73]
+aka = ["创业内幕 Startup Insider"]
+url = "https://www.ximalaya.com/album/20119986.xml"
+
+[sources.74]
+aka = ["蒼藍鴿的醫學通識"]
+url = "https://open.firstory.me/rss/user/ckd5xnbyxiv030856dryxio99"
+
+[sources.75]
+aka = ["Twitter - @breathing_funny"]
+url = "https://twitter2rss.nomadic.name/breathing_funny"
+group = "twitter"
+
+[sources.76]
+aka = ["Twitter - @jamella_hoshino"]
+url = "https://twitter2rss.nomadic.name/jamella_hoshino"
+group = "twitter"
+
+[sources.77]
+aka = ["Webtoons - 奇奇怪怪"]
+url = "http://nuc.local:1200/webtoons/zh-hant/thriller/tales-of-the-unusual/290"
+group = "bilibili"
+
+[sources.78]
+aka = ["稚嫩的魔法师"]
+url = "http://nuc.local:1200/bilibili/user/video/1276787"
+group = "bilibili"
+
+[sources.79]
+aka = ["电影最TOP 的 bilibili 空间"]
+url = "http://nuc.local:1200/bilibili/user/video/17819768"
+group = "bilibili"
+
+[sources.80]
+aka = ["机核网 - 电台"]
+url = "http://nuc.local:1200/gcores/category/radios"
+
+[sources.81]
+aka = ["无穷小亮的科普日常 的 bilibili 空间"]
+url = "http://nuc.local:1200/bilibili/user/video/14804670"
+group = "bilibili"
+
+[sources.82]
+aka = ["博物杂志 的 bilibili 空间"]
+url = "http://nuc.local:1200/bilibili/user/video/50092850"
+group = "bilibili"
+
+[sources.83]
+aka = ["中国国家地理 的 bilibili 空间"]
+url = "http://nuc.local:1200/bilibili/user/video/2000819931"
+group = "bilibili"
+
+[sources.84]
+aka = ["汪品先院士 的 bilibili 空间"]
+url = "http://nuc.local:1200/bilibili/user/video/513722566"
+group = "bilibili"
+
+[sources.85]
+aka = ["KK邓心心的个人空间 -AcFun弹幕视频网"]
+url = "http://nuc.local:1200/acfun/user/video/53606038"
+
+[sources.86]
+aka = ["游戏咖啡馆的个人空间 -AcFun弹幕视频网"]
+url = "http://nuc.local:1200/acfun/user/video/13400653"
+
+[sources.87]
+aka = ["爬爬娘的个人空间 -AcFun弹幕视频网"]
+url = "http://nuc.local:1200/acfun/user/video/10424686"
+
+[sources.88]
+aka = ["马铃薯男爵的画廊的个人空间 -AcFun弹幕视频网"]
+url = "http://nuc.local:1200/acfun/user/video/8222737"
+
+[sources.89]
+aka = ["神龙士力架的个人空间 -AcFun弹幕视频网"]
+url = "http://nuc.local:1200/acfun/user/video/1597840"
+
+[sources.90]
+aka = ["修一j 的 bilibili 空间"]
+url = "http://nuc.local:1200/bilibili/user/video/9030440"
+group = "bilibili"
+
+[sources.91]
+aka = ["AC猫仔队大队长的个人空间 -AcFun弹幕视频网"]
+url = "http://nuc.local:1200/acfun/user/video/1438120"
+
+[sources.92]
+aka = ["Ac鲁路修的个人空间 -AcFun弹幕视频网"]
+url = "http://nuc.local:1200/acfun/user/video/243400"
+
+[sources.93]
+aka = ["黑毛羊驼 的 bilibili 空间"]
+url = "http://nuc.local:1200/bilibili/user/video/475443398"
+group = "bilibili"
+
+[sources.94]
+aka = ["野居青年 的 bilibili 空间"]
+url = "http://nuc.local:1200/bilibili/user/video/176756724"
+group = "bilibili"
+
+[sources."Brent Salisbury's Blog | NetworkStatic"]
+aka = ["0"]
+url = "http://feeds.feedburner.com/Networkstatic"
+processors = ["telegram"]
+
+[sources."Gaming Historian"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCnbvPS_rXp4PC21PG2k1UVg"
+processors = ["youtube_dl", "telegram"]
+aka = ["1"]
+
+[sources."Hi! 上天不?"]
+url = "https://a-wing.top/feed.xml"
+aka = ["2"]
+
+[groups.default]
+update_interval = 15
+rate_limit = 0
+
+[groups.twitter]
+update_interval = 10
+rate_limit = 1
+
+[groups.bilibili]
+update_interval = 60
+rate_limit = 2
