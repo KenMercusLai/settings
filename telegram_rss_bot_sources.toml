@@ -374,8 +374,8 @@ url = "http://nuc.local:1200/acfun/user/video/1438120"
 aka = ["Ac鲁路修的个人空间 -AcFun弹幕视频网"]
 url = "http://nuc.local:1200/acfun/user/video/243400"
 
-[sources.93]
-aka = ["黑毛羊驼 的 bilibili 空间"]
+[sources."黑毛羊驼 的 bilibili 空间"]
+aka = ["93"]
 url = "http://nuc.local:1200/bilibili/user/video/475443398"
 group = "bilibili"
 
