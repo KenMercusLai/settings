@@ -1,4 +1,7 @@
-[sources."萌评游戏 爬爬娘 "]
+[sources."马卡耶夫造飞机"]
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCoXkotCJ_wAk7HSY5bwJnAQ"
+
+[sources."萌评游戏 爬爬娘"]
 url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCz-Ct9H7nGfogQTTNKp96Pg"
 
 [sources.3]
