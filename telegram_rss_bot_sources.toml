@@ -264,12 +264,12 @@ url = "https://rss.art19.com/think-fast-talk-smart"
 [sources.66]
 aka = ["ggtalk"]
 url = "https://talkcdn.swift.gg/static/rss.xml"
-disabled = true
+enabled = false
 
 [sources.67]
 aka = ["内核恐慌"]
 url = "https://pan.icu/feed"
-disabled = true
+enabled = false
 
 [sources.68]
 aka = ["天才捕手FM"]
@@ -290,6 +290,7 @@ url = "https://crazy.capital/feed"
 [sources.72]
 aka = ["绵羊料理"]
 url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCiAuybSv94YrdXhrGECtAxQ"
+enabled = false
 
 [sources.73]
 aka = ["创业内幕 Startup Insider"]
