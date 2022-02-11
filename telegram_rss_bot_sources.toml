@@ -269,6 +269,7 @@ disabled = true
 [sources.67]
 aka = ["内核恐慌"]
 url = "https://pan.icu/feed"
+disabled = true
 
 [sources.68]
 aka = ["天才捕手FM"]
