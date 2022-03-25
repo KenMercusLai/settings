@@ -299,10 +299,6 @@ enabled = false
 aka = ["创业内幕 Startup Insider"]
 url = "https://www.ximalaya.com/album/20119986.xml"
 
-[sources.74]
-aka = ["蒼藍鴿的醫學通識"]
-url = "https://open.firstory.me/rss/user/ckd5xnbyxiv030856dryxio99"
-
 [sources.75]
 aka = ["Twitter - @breathing_funny"]
 url = "https://twitter2rss.nomadic.name/breathing_funny"
