@@ -1,3 +1,12 @@
+[sources."softwareengineeringdaily"]
+url = "https://softwareengineeringdaily.com/feed/podcast/"
+
+[sources."ShipIt"]
+url = "https://changelog.com/shipit/feed"
+
+[sources."DevOps and Docker Talk"]
+url = "https://feeds.transistor.fm/devops-and-docker-talk"
+
 [sources."自古多情伤离别 -AcFun弹幕视频网"]
 url = "http://nuc.local:1200/acfun/user/video/1378895"
 
