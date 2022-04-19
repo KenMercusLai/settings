@@ -414,7 +414,7 @@ rate_limit = 0
 
 [groups.twitter]
 update_interval = 10
-rate_limit = 1
+rate_limit = 2
 
 [groups.bilibili]
 update_interval = 60
