@@ -1,5 +1,6 @@
 [sources."杨蕙兰"]
 url = "http://nuc.local:1200/twitter/media/Skyler_246"
+group = "twitter"
 
 [sources."softwareengineeringdaily"]
 url = "https://softwareengineeringdaily.com/feed/podcast/"
