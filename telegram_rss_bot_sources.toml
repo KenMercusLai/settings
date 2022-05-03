@@ -1,5 +1,5 @@
-[sources."Qing_1432"]
-url = "http://nuc.local:1200/twitter/media/Qing_1432"
+[sources."Takomayuyi"]
+url = "http://nuc.local:1200/twitter/media/Takomayuyi"
 group = "twitter"
 
 [sources."czbb0709"]
