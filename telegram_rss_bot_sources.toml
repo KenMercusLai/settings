@@ -1,3 +1,7 @@
+[sources."Qing_1432"]
+url = "http://nuc.local:1200/twitter/media/Qing_1432"
+group = "twitter"
+
 [sources."杨蕙兰"]
 url = "http://nuc.local:1200/twitter/media/Skyler_246"
 group = "twitter"
