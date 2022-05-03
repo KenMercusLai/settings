@@ -2,6 +2,22 @@
 url = "http://nuc.local:1200/twitter/media/Qing_1432"
 group = "twitter"
 
+[sources."czbb0709"]
+url = "http://nuc.local:1200/twitter/media/czbb0709"
+group = "twitter"
+
+[sources."Aninnyan"]
+url = "http://nuc.local:1200/twitter/media/Aninnyan"
+group = "twitter"
+
+[sources."aqua_cosplay"]
+url = "http://nuc.local:1200/twitter/media/aqua_cosplay"
+group = "twitter"
+
+[sources."Qing_1432"]
+url = "http://nuc.local:1200/twitter/media/Qing_1432"
+group = "twitter"
+
 [sources."杨蕙兰"]
 url = "http://nuc.local:1200/twitter/media/Skyler_246"
 group = "twitter"
