@@ -2,10 +2,6 @@
 url = "http://nuc.local:1200/twitter/media/GavinYa13805005"
 group = "twitter"
 
-[sources."czbb0709"]
-url = "http://nuc.local:1200/twitter/media/czbb0709"
-group = "twitter"
-
 [sources."yuuhuia"]
 url = "http://nuc.local:1200/twitter/media/yuuhuia"
 group = "twitter"
