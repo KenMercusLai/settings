@@ -1,3 +1,15 @@
+[sources."Bossy_0618"]
+url = "http://nuc.local:1200/twitter/media/Bossy_0618"
+group = "twitter"
+
+[sources."sirotama0907"]
+url = "http://nuc.local:1200/twitter/media/sirotama0907"
+group = "twitter"
+
+[sources."May51_"]
+url = "http://nuc.local:1200/twitter/media/May51_"
+group = "twitter"
+
 [sources."GavinYa13805005"]
 url = "http://nuc.local:1200/twitter/media/GavinYa13805005"
 group = "twitter"
