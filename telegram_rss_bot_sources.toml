@@ -1,3 +1,8 @@
+[sources."rioko041120"]
+url = "http://nuc.local:1200/twitter/media/rioko041120"
+group = "twitter"
+
+
 [sources."smilecutty"]
 url = "http://nuc.local:1200/twitter/media/smilecutty"
 group = "twitter"
