@@ -1,3 +1,7 @@
+[sources."Elena_nijigen"]
+url = "http://nuc.local:1200/twitter/media/Elena_nijigen"
+group = "twitter"
+
 [sources."Bossy_0618"]
 url = "http://nuc.local:1200/twitter/media/Bossy_0618"
 group = "twitter"
