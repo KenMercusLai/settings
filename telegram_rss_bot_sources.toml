@@ -296,10 +296,6 @@ url = "https://jysperm.me/atom.xml"
 aka = ["生产力维基"]
 url = "https://productivity.wiki/feed/podcast"
 
-[sources.53]
-aka = ["红酒汤姆一世"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCJT6M5j-HT-76ts0eTzZtJw"
-
 [sources.54]
 aka = ["约伊兹的萌狼乡手札"]
 url = "https://blog.yoitsu.moe/feeds/all.atom.xml"
