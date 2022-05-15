@@ -195,6 +195,7 @@ url = "https://xiaozhou.net/atom.xml"
 [sources.28]
 aka = ["ipSpace.net Blog Posts"]
 url = "http://feed.ipspace.net/blog/"
+enabled = false
 
 [sources.29]
 aka = ["lijiaocn.github.io"]
