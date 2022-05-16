@@ -328,6 +328,7 @@ url = "http://gaocegege.com/Blog/rss.xml"
 [sources.61]
 aka = ["Fastly Blog"]
 url = "https://www.fastly.com/blog_rss.xml"
+enabled = false
 
 [sources.62]
 aka = ["HBR IdeaCast"]
