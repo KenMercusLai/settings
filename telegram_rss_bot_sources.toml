@@ -1,6 +1,9 @@
+[sources."themarginalian"]
+url = "https://feedproxy.google.com/brainpickings/rss"
+
+
 [sources."collaborativefund"]
 url = "http://feeds.feedburner.com/collabfund"
-group = "twitter"
 
 [sources."rioko041120"]
 url = "http://nuc.local:1200/twitter/media/rioko041120"
