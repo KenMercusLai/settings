@@ -1,3 +1,6 @@
+[sources."bakadesuyo"]
+url = "https://bakadesuyo.com/feed/"
+
 [sources."joelonsoftware"]
 url = "https://www.joelonsoftware.com/feed/"
 
