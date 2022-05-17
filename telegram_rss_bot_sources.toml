@@ -1,6 +1,8 @@
+[sources."waitbutwhy"]
+url = "https://waitbutwhy.com/feed"
+
 [sources."themarginalian"]
 url = "https://feedproxy.google.com/brainpickings/rss"
-
 
 [sources."collaborativefund"]
 url = "http://feeds.feedburner.com/collabfund"
