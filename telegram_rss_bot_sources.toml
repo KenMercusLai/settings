@@ -1,3 +1,6 @@
+[sources."joelonsoftware"]
+url = "https://www.joelonsoftware.com/feed/"
+
 [sources."waitbutwhy"]
 url = "https://waitbutwhy.com/feed"
 
