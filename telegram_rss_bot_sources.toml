@@ -1,3 +1,6 @@
+[sources."markmanson"]
+url = "https://markmanson.net/feed"
+
 [sources."fs.blog"]
 url = "https://fs.blog/feed/"
 
