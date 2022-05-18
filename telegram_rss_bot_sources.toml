@@ -1,3 +1,6 @@
+[sources."RyanHoliday"]
+url = "https://ryanholiday.net/feed"
+
 [sources."scotthyoung"]
 url = "https://www.scotthyoung.com/feed/"
 
