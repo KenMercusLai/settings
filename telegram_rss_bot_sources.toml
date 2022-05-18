@@ -1,3 +1,6 @@
+[sources."Of Dollars And Data"]
+url = "https://ofdollarsanddata.com/feed/"
+
 [sources."markmanson"]
 url = "https://markmanson.net/feed"
 
