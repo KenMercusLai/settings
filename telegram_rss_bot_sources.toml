@@ -1,3 +1,6 @@
+[sources."jamesclear"]
+url = "https://jamesclear.com/feed"
+
 [sources."dariusforoux"]
 url = "https://dariusforoux.com/feed/"
 
