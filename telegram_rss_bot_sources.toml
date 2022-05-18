@@ -1,3 +1,6 @@
+[sources."David Perell"]
+url = "https://perell.com/feed/"
+
 [sources."paulgraham"]
 url = "http://www.aaronsw.com/2002/feeds/pgessays.rss"
 
