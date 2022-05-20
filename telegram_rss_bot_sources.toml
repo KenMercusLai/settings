@@ -1,3 +1,7 @@
+[sources."yummychiyo"]
+url = "http://nuc.local:1200/twitter/media/yummychiyo"
+group = "twitter"
+
 [sources."서센세"]
 url = "http://nuc.local:1200/twitter/media/senseicos"
 group = "twitter"
