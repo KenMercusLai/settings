@@ -1,3 +1,7 @@
+[sources."Megumi_Nange"]
+url = "http://nuc.local:1200/twitter/media/Megumi_Nange"
+group = "twitter"
+
 [sources."trufflemilky"]
 url = "http://nuc.local:1200/twitter/media/trufflemilky"
 group = "twitter"
