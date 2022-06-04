@@ -1,3 +1,23 @@
+[sources."Paruru2xc"]
+url = "http://nuc.local:1200/twitter/media/Paruru2xc"
+group = "twitter"
+
+[sources."Erzuoxxxx"]
+url = "http://nuc.local:1200/twitter/media/Erzuoxxxx"
+group = "twitter"
+
+[sources."BANBANKO_"]
+url = "http://nuc.local:1200/twitter/media/BANBANKO_"
+group = "twitter"
+
+[sources."yukiAstra"]
+url = "http://nuc.local:1200/twitter/media/yukiAstra"
+group = "twitter"
+
+[sources."nyonyoko5871"]
+url = "http://nuc.local:1200/twitter/media/nyonyoko5871"
+group = "twitter"
+
 [sources."Megumi_Nange"]
 url = "http://nuc.local:1200/twitter/media/Megumi_Nange"
 group = "twitter"
