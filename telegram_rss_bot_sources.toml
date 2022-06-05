@@ -1,3 +1,35 @@
+[sources."Yibeibuchi_"]
+url = "http://nuc.local:1200/twitter/media/Yibeibuchi_"
+group = "twitter"
+
+[sources."senyamiku0"]
+url = "http://nuc.local:1200/twitter/media/senyamiku0"
+group = "twitter"
+
+[sources."likepve"]
+url = "http://nuc.local:1200/twitter/media/likepve"
+group = "twitter"
+
+[sources."JIUQUCKA"]
+url = "http://nuc.local:1200/twitter/media/JIUQUCKA"
+group = "twitter"
+
+[sources."natsume0v0"]
+url = "http://nuc.local:1200/twitter/media/natsume0v0"
+group = "twitter"
+
+[sources."cathy520233"]
+url = "http://nuc.local:1200/twitter/media/cathy520233"
+group = "twitter"
+
+[sources."rissoft344"]
+url = "http://nuc.local:1200/twitter/media/rissoft344"
+group = "twitter"
+
+[sources."qiyuemiaozi"]
+url = "http://nuc.local:1200/twitter/media/qiyuemiaozi"
+group = "twitter"
+
 [sources."Paruru2xc"]
 url = "http://nuc.local:1200/twitter/media/Paruru2xc"
 group = "twitter"
