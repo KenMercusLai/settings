@@ -1,3 +1,7 @@
+[sources."Succubus_Lilimu"]
+url = "http://nuc.local:1200/twitter/media/Succubus_Lilimu"
+group = "twitter"
+
 [sources."Yibeibuchi_"]
 url = "http://nuc.local:1200/twitter/media/Yibeibuchi_"
 group = "twitter"
