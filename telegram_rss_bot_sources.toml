@@ -109,6 +109,7 @@ url = "https://ryanholiday.net/feed"
 
 [sources."scotthyoung"]
 url = "https://www.scotthyoung.com/feed/"
+enabled = false
 
 [sources."andrewchen"]
 url = "https://andrewchen.com/feed/"
