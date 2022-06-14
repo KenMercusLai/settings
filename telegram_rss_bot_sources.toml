@@ -1,3 +1,7 @@
+[sources."ct9_sakura"]
+url = "http://nuc.local:1200/twitter/media/ct9_sakura"
+group = "twitter"
+
 [sources."Haiyi_NEKO"]
 url = "http://nuc.local:1200/twitter/media/Haiyi_NEKO"
 group = "twitter"
