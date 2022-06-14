@@ -1,97 +1,8 @@
 
-
-[sources."jamesclear"]
-url = "https://jamesclear.com/feed"
-
-[sources."dariusforoux"]
-url = "https://dariusforoux.com/feed/"
-
-[sources."Break up the wrong tree"]
-url = "https://bakadesuyo.com/feed/"
-
-[sources."joelonsoftware"]
-url = "https://www.joelonsoftware.com/feed/"
-
-[sources."waitbutwhy"]
-url = "https://waitbutwhy.com/feed"
-
-[sources."themarginalian"]
-url = "https://feedproxy.google.com/brainpickings/rss"
-
 [sources."collaborativefund"]
 url = "http://feeds.feedburner.com/collabfund"
 
-[sources."rioko041120"]
-url = "http://nuc.local:1200/twitter/media/rioko041120"
-group = "twitter"
 
-[sources."smilecutty"]
-url = "http://nuc.local:1200/twitter/media/smilecutty"
-group = "twitter"
-
-[sources."NinJA_Azz"]
-url = "http://nuc.local:1200/twitter/media/NinJA_Azz"
-group = "twitter"
-
-[sources."Elena_nijigen"]
-url = "http://nuc.local:1200/twitter/media/Elena_nijigen"
-group = "twitter"
-
-[sources."Bossy_0618"]
-url = "http://nuc.local:1200/twitter/media/Bossy_0618"
-group = "twitter"
-
-[sources."sirotama0907"]
-url = "http://nuc.local:1200/twitter/media/sirotama0907"
-group = "twitter"
-
-[sources."May51_"]
-url = "http://nuc.local:1200/twitter/media/May51_"
-group = "twitter"
-
-[sources."GavinYa13805005"]
-url = "http://nuc.local:1200/twitter/media/GavinYa13805005"
-group = "twitter"
-
-[sources."yuuhuia"]
-url = "http://nuc.local:1200/twitter/media/yuuhuia"
-group = "twitter"
-
-[sources."XiaXiaoqiu"]
-url = "http://nuc.local:1200/twitter/media/XiaXiaoqiu"
-group = "twitter"
-
-[sources."sama31598328"]
-url = "http://nuc.local:1200/twitter/media/sama31598328"
-group = "twitter"
-
-[sources."Takomayuyi"]
-url = "http://nuc.local:1200/twitter/media/Takomayuyi"
-group = "twitter"
-
-[sources."czbb0709"]
-url = "http://nuc.local:1200/twitter/media/czbb0709"
-group = "twitter"
-
-[sources."Aninnyan"]
-url = "http://nuc.local:1200/twitter/media/Aninnyan"
-group = "twitter"
-
-[sources."aqua_cosplay"]
-url = "http://nuc.local:1200/twitter/media/aqua_cosplay"
-group = "twitter"
-
-[sources."Qing_1432"]
-url = "http://nuc.local:1200/twitter/media/Qing_1432"
-group = "twitter"
-
-[sources."杨蕙兰"]
-url = "http://nuc.local:1200/twitter/media/Skyler_246"
-group = "twitter"
-
-[sources."abaoyeshitunia1"]
-url = "http://nuc.local:1200/twitter/media/abaoyeshitunia1"
-group = "twitter"
 
 [sources."softwareengineeringdaily"]
 url = "https://softwareengineeringdaily.com/feed/podcast/"
@@ -103,45 +14,8 @@ url = "https://changelog.com/shipit/feed"
 url = "https://feeds.transistor.fm/devops-and-docker-talk"
 enabled = false
 
-[sources."自古多情伤离别 -AcFun弹幕视频网"]
-url = "http://nuc.local:1200/acfun/user/video/1378895"
 
-[sources."小约翰可汗"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCAeIZxbLS06qOpBTAGT1qxA"
 
-[sources."马卡耶夫造飞机"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCoXkotCJ_wAk7HSY5bwJnAQ"
-
-[sources."萌评游戏 爬爬娘"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCz-Ct9H7nGfogQTTNKp96Pg"
-
-[sources.3]
-aka = ["Hi, DIYgod"]
-url = "https://diygod.me/atom.xml"
-
-[sources.4]
-aka = ["Hwchiu Learning Note"]
-url = "https://www.hwchiu.com/atom.xml"
-
-[sources.5]
-aka = ["Kakashi's Notes"]
-url = "https://kkc.github.io/atom.xml"
-
-[sources.6]
-aka = ["Lindsay Hill"]
-url = "https://lkhill.com/feed/index.xml"
-
-[sources.7]
-aka = ["Low Score Boy"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC1BjrXqfmHmBkM2FjBTdg-w"
-
-[sources.8]
-aka = ["MadcatClan"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC4P8jsqloj9e6eYCLz0yr7Q"
-
-[sources.9]
-aka = ["Martin Fowler"]
-url = "https://martinfowler.com/feed.atom"
 
 [sources.10]
 aka = ["Nolla"]
@@ -151,29 +25,7 @@ url = "https://cmgs.me/feed.xml"
 aka = ["Posts on Nova Kwok's Awesome Blog"]
 url = "https://nova.moe/feed"
 
-[sources.12]
-aka = ["Retro Game Mechanics Explained"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g"
 
-[sources.13]
-aka = ["Rss Feed - 苏洋博客"]
-url = "https://soulteary.com/feed/"
-
-[sources.14]
-aka = ["Scateu Blog - S.B."]
-url = "http://scateu.github.io/feed.xml"
-
-[sources.15]
-aka = ["Strange Parts"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCO8DQrSp5yEP937qNqTooOw"
-
-[sources.16]
-aka = ["Stratechery by Ben Thompson"]
-url = "https://stratechery.com/feed/"
-
-[sources.17]
-aka = ["Summoning Salt"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCtUbO6rBht0daVIOGML3c8w"
 
 [sources.18]
 aka = ["TROOPERScon"]
