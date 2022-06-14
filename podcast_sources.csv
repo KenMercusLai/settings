@@ -8,111 +8,18 @@ Teahour, https://feeds.fireside.fm/teahour/rss , , , true
 
 The Python Data & Science Podcast.__init__,https://www.podcastinit.com/feed/mp3/,,,true
 
-Think Fast, Talk Smart: Communication Techniques,https://rss.art19.com/think-fast-talk-smart,,,true
+Think Fast Talk Smart: Communication Techniques,https://rss.art19.com/think-fast-talk-smart,,,true
 
 
 内核恐慌,https://pan.icu/feed,,, false
 
-[sources.68]
-aka = ["天才捕手FM"]
-url = "https://s1.proxy.wavpub.com/storyhunting.xml"
+ 天才捕手FM,https://s1.proxy.wavpub.com/storyhunting.xml,,,true
 
-[sources.69]
-aka = ["小人物 A Nobody"]
-url = "https://anobody.im/podcast/rss.xml"
+小人物 A Nobody,https://anobody.im/podcast/rss.xml,,,true
 
-[sources.70]
-aka = ["捕蛇者说"]
-url = "https://pythonhunter.org/episodes/feed.xml"
+捕蛇者说,https://pythonhunter.org/episodes/feed.xml,,,true
 
-[sources.71]
-aka = ["疯投圈"]
-url = "https://crazy.capital/feed"
+疯投圈,https://crazy.capital/feed,,,true
+创业内幕 Startup Insider,https://www.ximalaya.com/album/20119986.xml,,,true
 
-[sources.72]
-aka = ["绵羊料理"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCiAuybSv94YrdXhrGECtAxQ"
-enabled = false
-
-[sources.73]
-aka = ["创业内幕 Startup Insider"]
-url = "https://www.ximalaya.com/album/20119986.xml"
-
-[sources.75]
-aka = ["Twitter - @breathing_funny"]
-url = "https://twitter2rss.nomadic.name/breathing_funny"
-group = "twitter"
-
-[sources.76]
-aka = ["Twitter - @jamella_hoshino"]
-url = "https://twitter2rss.nomadic.name/jamella_hoshino"
-group = "twitter"
-
-[sources."Franklin_0793"]
-url = "http://nuc.local:1200/bilibili/user/video/28214722"
-group = "bilibili"
-
-[sources.77]
-aka = ["Webtoons - 奇奇怪怪"]
-url = "http://nuc.local:1200/webtoons/zh-hant/thriller/tales-of-the-unusual/290"
-group = "bilibili"
-
-[sources.78]
-aka = ["稚嫩的魔法师"]
-url = "http://nuc.local:1200/bilibili/user/video/1276787"
-group = "bilibili"
-
-[sources.79]
-aka = ["电影最TOP 的 bilibili 空间"]
-url = "http://nuc.local:1200/bilibili/user/video/17819768"
-group = "bilibili"
-
-[sources.80]
-aka = ["机核网 - 电台"]
-url = "http://nuc.local:1200/gcores/category/radios"
-
-[sources.81]
-aka = ["无穷小亮的科普日常 的 bilibili 空间"]
-url = "http://nuc.local:1200/bilibili/user/video/14804670"
-group = "bilibili"
-
-[sources.82]
-aka = ["博物杂志 的 bilibili 空间"]
-url = "http://nuc.local:1200/bilibili/user/video/50092850"
-group = "bilibili"
-
-[sources.83]
-aka = ["中国国家地理 的 bilibili 空间"]
-url = "http://nuc.local:1200/bilibili/user/video/2000819931"
-group = "bilibili"
-
-[sources.84]
-aka = ["汪品先院士 的 bilibili 空间"]
-url = "http://nuc.local:1200/bilibili/user/video/513722566"
-group = "bilibili"
-
-[sources.85]
-aka = ["KK邓心心的个人空间 -AcFun弹幕视频网"]
-url = "http://nuc.local:1200/acfun/user/video/53606038"
-
-[sources.86]
-aka = ["游戏咖啡馆的个人空间 -AcFun弹幕视频网"]
-url = "http://nuc.local:1200/acfun/user/video/13400653"
-
-[sources.87]
-aka = ["爬爬娘的个人空间 -AcFun弹幕视频网"]
-url = "http://nuc.local:1200/acfun/user/video/10424686"
-
-[sources.88]
-aka = ["马铃薯男爵的画廊的个人空间 -AcFun弹幕视频网"]
-url = "http://nuc.local:1200/acfun/user/video/8222737"
-
-[sources.89]
-aka = ["神龙士力架的个人空间 -AcFun弹幕视频网"]
-url = "http://nuc.local:1200/acfun/user/video/1597840"
-
-[sources.90]
-aka = ["修一j 的 bilibili 空间"]
-url = "http://nuc.local:1200/bilibili/user/video/9030440"
-group = "bilibili"
 
