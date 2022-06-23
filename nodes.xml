@@ -1,7 +1,10 @@
 <project>
-  <node name="orion"
-    description="a foodazzler service host" tags="staging,us-east"
-    osFamily="unix" osName="Linux"
-    hostname="orion"  username="alexh"
+  <node name="potato"
+    description="a foodazzler service host" tags="test"
+    hostname="172.25.224.1"  username="laik"
+    osFamily="Windows" osName="Microsoft Windows Server 2012 R2 Standard" osArch="amd64"
+    node-executor="overthere-winrm" winrm-auth-type="kerberos" winrm-protocol="http"
+    winrm-cmd="CMD" winrm-kerberos-debug="true"
+    winrm-domain="corpad.net.local" winrm-password-storage-path="keys/winrmuser.password">
     />
 </project>
