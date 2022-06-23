@@ -1,0 +1,7 @@
+<project>
+  <node name="orion"
+    description="a foodazzler service host" tags="staging,us-east"
+    osFamily="unix" osName="Linux"
+    hostname="orion"  username="alexh"
+    />
+</project>
