@@ -5,6 +5,6 @@
     osFamily="Linux" osName="Ubuntu 22.04" osArch="amd64"
     node-executor="overthere-winrm" winrm-auth-type="kerberos" winrm-protocol="http"
     winrm-cmd="CMD" winrm-kerberos-debug="true"
-    winrm-domain="corpad.net.local" winrm-password-storage-path="keys/winrmuser.password">
+    winrm-domain="corpad.net.local" winrm-password-storage-path="keys/winrmuser.password"
     />
 </project>
