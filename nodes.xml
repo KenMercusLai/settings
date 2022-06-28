@@ -2,9 +2,6 @@
   <node name="executor_1"
     description="a foodazzler service host" tags="test"
     hostname="192.168.56.201"  username="vagrant"
-    osFamily="Linux" osName="Ubuntu 22.04" osArch="amd64"
-    node-executor="overthere-winrm" winrm-auth-type="kerberos" winrm-protocol="http"
-    winrm-cmd="CMD" winrm-kerberos-debug="true"
-    winrm-domain="corpad.net.local" winrm-password-storage-path="keys/winrmuser.password"
+    osFamily="unix" osName="Ubuntu 22.04" osArch="amd64"
     />
 </project>
