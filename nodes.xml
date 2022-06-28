@@ -4,4 +4,9 @@
     hostname="192.168.56.201"  username="vagrant"
     osFamily="unix" osName="Ubuntu 22.04" osArch="amd64"
     />
+  <node name="executor" 
+    description="executor 1" tags="" 
+    hostname="192.168.56.201" osArch="amd64" 
+    osFamily="unix" osName="Linux" osVersion="Ubuntu 22.04" 
+    username="vagrant"/>
 </project>
