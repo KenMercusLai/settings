@@ -3,6 +3,6 @@
     description="executor 1" tags="test"
     hostname="192.168.56.201"  osArch="amd64" 
     osFamily="Linux" osName="Ubuntu" osVersion="22.04" 
-    username="vagrant"
+    username="rundeck"
     />
 </project>
