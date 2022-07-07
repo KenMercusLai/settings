@@ -2,7 +2,7 @@
   <node name="executor_1"
     description="executor 1" tags="test"
     hostname="pynode"  osArch="amd64" 
-    osFamily="Linux" osName="Ubuntu" osVersion="22.04" 
+    osFamily="Linux" osName="Debian" osVersion="22.04" 
     username="rundeck"
     />
 </project>
