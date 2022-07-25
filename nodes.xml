@@ -1,7 +1,13 @@
 <project>
-  <node name="executor_1"
-    description="executor 1" tags="test"
-    hostname="pynode"  osArch="amd64" 
+  <node name="firewall_worker"
+    description="firewall_worker" tags="test"
+    hostname="firewall_worker"  osArch="amd64" 
+    osFamily="Linux" osName="Debian" osVersion="22.04" 
+    username="rundeck"
+    />
+   <node name="sdwan_worker"
+    description="sdwan_worker" tags="test"
+    hostname="sdwan_worker"  osArch="amd64" 
     osFamily="Linux" osName="Debian" osVersion="22.04" 
     username="rundeck"
     />
