@@ -1,14 +1,8 @@
 <project>
-  <node name="firewall_worker"
-    description="firewall_worker" tags="test"
-    hostname="firewall_worker"  osArch="amd64" 
-    osFamily="Linux" osName="Debian" osVersion="22.04" 
-    username="rundeck"
-    />
-   <node name="sdwan_worker"
-    description="sdwan_worker" tags="test"
-    hostname="sdwan_worker"  osArch="amd64" 
-    osFamily="Linux" osName="Debian" osVersion="22.04" 
+  <node name="PRDDC2TINF103"
+    description="PRDDC2TINF103" tags="prod"
+    hostname="10.0.191.87"  osArch="amd64" 
+    osFamily="Linux" osName="RHEL" osVersion="8" 
     username="rundeck"
     />
 </project>
