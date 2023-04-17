@@ -1,54 +1,3 @@
-[sources."ct9_sakura"]
-url = "http://nuc.local:1200/twitter/media/ct9_sakura"
-group = "twitter"
-
-[sources."Haiyi_NEKO"]
-url = "http://nuc.local:1200/twitter/media/Haiyi_NEKO"
-group = "twitter"
-
-[sources."Meeu228744495"]
-url = "http://nuc.local:1200/twitter/media/Meeu228744495"
-group = "twitter"
-
-[sources."Suyvvv_"]
-url = "http://nuc.local:1200/twitter/media/Suyvvv_"
-group = "twitter"
-
-[sources."Misanay1"]
-url = "http://nuc.local:1200/twitter/media/Misanay1"
-group = "twitter"
-
-[sources."476809598Shiro"]
-url = "http://nuc.local:1200/twitter/media/476809598Shiro"
-group = "twitter"
-
-[sources."aqua28551264"]
-url = "http://nuc.local:1200/twitter/media/aqua28551264"
-group = "twitter"
-
-[sources."Succubus_Lilimu"]
-url = "http://nuc.local:1200/twitter/media/Succubus_Lilimu"
-group = "twitter"
-
-[sources."Yibeibuchi_"]
-url = "http://nuc.local:1200/twitter/media/Yibeibuchi_"
-group = "twitter"
-
-[sources."senyamiku0"]
-url = "http://nuc.local:1200/twitter/media/senyamiku0"
-group = "twitter"
-
-[sources."likepve"]
-url = "http://nuc.local:1200/twitter/media/likepve"
-group = "twitter"
-
-[sources."JIUQUCKA"]
-url = "http://nuc.local:1200/twitter/media/JIUQUCKA"
-group = "twitter"
-
-[sources."natsume0v0"]
-url = "http://nuc.local:1200/twitter/media/natsume0v0"
-group = "twitter"
 
 [sources."cathy520233"]
 url = "http://nuc.local:1200/twitter/media/cathy520233"
@@ -191,13 +140,6 @@ group = "twitter"
 url = "http://nuc.local:1200/twitter/media/GavinYa13805005"
 group = "twitter"
 
-[sources."yuuhuia"]
-url = "http://nuc.local:1200/twitter/media/yuuhuia"
-group = "twitter"
-
-[sources."XiaXiaoqiu"]
-url = "http://nuc.local:1200/twitter/media/XiaXiaoqiu"
-group = "twitter"
 
 [sources."sama31598328"]
 url = "http://nuc.local:1200/twitter/media/sama31598328"
@@ -392,14 +334,6 @@ url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCYjB6uufPeHSwuHs8wov
 aka = ["云原生实验室"]
 url = "https://fuckcloudnative.io/index.xml"
 
-[sources.37]
-aka = ["八荒印痕OctoEast"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCYGGdARbsNbWX2nI703Ga3Q"
-
-[sources.38]
-aka = ["冲浪普拉斯"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCZNxe_9FQAK2Z3suwaZlwpQ"
-
 [sources.39]
 aka = ["吴良超的学习笔记"]
 url = "http://wulc.me/atom.xml"
@@ -408,10 +342,6 @@ url = "http://wulc.me/atom.xml"
 aka = ["四火的唠叨"]
 url = "https://www.raychase.net/feed"
 enabled = false
-
-[sources.41]
-aka = ["暖风游戏厅"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCwGPvDUACEwGARFid2t-cfw"
 
 [sources.42]
 aka = ["国光"]
@@ -463,17 +393,10 @@ url = "https://productivity.wiki/feed/podcast"
 aka = ["约伊兹的萌狼乡手札"]
 url = "https://blog.yoitsu.moe/feeds/all.atom.xml"
 
-[sources.55]
-aka = ["美食作家王刚"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0m_Ah8P_MQbnn77-vYnYw"
 
 [sources.56]
 aka = ["老裁缝陆林冲"]
 url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC8OLOWcQhNmw_BgRFKrOwpw"
-
-[sources.57]
-aka = ["自得琴社 Zi De Guqin Studio"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCltmf0pqjXyLtNsF2vek_wQ"
 
 [sources.58]
 aka = ["茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。"]
@@ -492,13 +415,6 @@ aka = ["Fastly Blog"]
 url = "https://www.fastly.com/blog_rss.xml"
 enabled = false
 
-[sources.62]
-aka = ["HBR IdeaCast"]
-url = "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
-
-[sources.63]
-aka = ["Teahour"]
-url = "https://feeds.fireside.fm/teahour/rss"
 
 [sources.64]
 aka = ["The Python Data & Science Podcast.__init__"]
@@ -553,19 +469,6 @@ aka = ["Twitter - @jamella_hoshino"]
 url = "https://twitter2rss.nomadic.name/jamella_hoshino"
 group = "twitter"
 
-[sources."Franklin_0793"]
-url = "http://nuc.local:1200/bilibili/user/video/28214722"
-group = "bilibili"
-
-[sources.77]
-aka = ["Webtoons - 奇奇怪怪"]
-url = "http://nuc.local:1200/webtoons/zh-hant/thriller/tales-of-the-unusual/290"
-group = "bilibili"
-
-[sources.78]
-aka = ["稚嫩的魔法师"]
-url = "http://nuc.local:1200/bilibili/user/video/1276787"
-group = "bilibili"
 
 [sources.79]
 aka = ["电影最TOP 的 bilibili 空间"]
@@ -591,11 +494,6 @@ aka = ["中国国家地理 的 bilibili 空间"]
 url = "http://nuc.local:1200/bilibili/user/video/2000819931"
 group = "bilibili"
 
-[sources.84]
-aka = ["汪品先院士 的 bilibili 空间"]
-url = "http://nuc.local:1200/bilibili/user/video/513722566"
-group = "bilibili"
-
 [sources.85]
 aka = ["KK邓心心的个人空间 -AcFun弹幕视频网"]
 url = "http://nuc.local:1200/acfun/user/video/53606038"
@@ -607,10 +505,6 @@ url = "http://nuc.local:1200/acfun/user/video/13400653"
 [sources.87]
 aka = ["爬爬娘的个人空间 -AcFun弹幕视频网"]
 url = "http://nuc.local:1200/acfun/user/video/10424686"
-
-[sources.88]
-aka = ["马铃薯男爵的画廊的个人空间 -AcFun弹幕视频网"]
-url = "http://nuc.local:1200/acfun/user/video/8222737"
 
 [sources.89]
 aka = ["神龙士力架的个人空间 -AcFun弹幕视频网"]
@@ -634,10 +528,6 @@ aka = ["93"]
 url = "http://nuc.local:1200/bilibili/user/video/475443398"
 group = "bilibili"
 
-[sources.94]
-aka = ["野居青年 的 bilibili 空间"]
-url = "http://nuc.local:1200/bilibili/user/video/176756724"
-group = "bilibili"
 
 [sources."Brent Salisbury's Blog | NetworkStatic"]
 aka = ["0"]
