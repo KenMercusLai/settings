@@ -1,8 +1,4 @@
 
-[sources."cathy520233"]
-url = "http://nuc.local:1200/twitter/media/cathy520233"
-group = "twitter"
-
 [sources."rissoft344"]
 url = "http://nuc.local:1200/twitter/media/rissoft344"
 group = "twitter"
@@ -55,9 +51,7 @@ group = "twitter"
 url = "http://nuc.local:1200/twitter/media/yummychiyo"
 group = "twitter"
 
-[sources."서센세"]
-url = "http://nuc.local:1200/twitter/media/senseicos"
-group = "twitter"
+
 
 [sources."David Perell"]
 url = "https://perell.com/feed/"
@@ -99,8 +93,6 @@ url = "https://bakadesuyo.com/feed/"
 [sources."joelonsoftware"]
 url = "https://www.joelonsoftware.com/feed/"
 
-[sources."waitbutwhy"]
-url = "https://waitbutwhy.com/feed"
 
 [sources."themarginalian"]
 url = "https://feedproxy.google.com/brainpickings/rss"
@@ -120,9 +112,7 @@ group = "twitter"
 url = "http://nuc.local:1200/twitter/media/NinJA_Azz"
 group = "twitter"
 
-[sources."Elena_nijigen"]
-url = "http://nuc.local:1200/twitter/media/Elena_nijigen"
-group = "twitter"
+
 
 [sources."Bossy_0618"]
 url = "http://nuc.local:1200/twitter/media/Bossy_0618"
@@ -132,9 +122,6 @@ group = "twitter"
 url = "http://nuc.local:1200/twitter/media/sirotama0907"
 group = "twitter"
 
-[sources."May51_"]
-url = "http://nuc.local:1200/twitter/media/May51_"
-group = "twitter"
 
 [sources."GavinYa13805005"]
 url = "http://nuc.local:1200/twitter/media/GavinYa13805005"
@@ -161,13 +148,6 @@ group = "twitter"
 url = "http://nuc.local:1200/twitter/media/aqua_cosplay"
 group = "twitter"
 
-[sources."Qing_1432"]
-url = "http://nuc.local:1200/twitter/media/Qing_1432"
-group = "twitter"
-
-[sources."杨蕙兰"]
-url = "http://nuc.local:1200/twitter/media/Skyler_246"
-group = "twitter"
 
 [sources."abaoyeshitunia1"]
 url = "http://nuc.local:1200/twitter/media/abaoyeshitunia1"
@@ -214,10 +194,6 @@ url = "https://lkhill.com/feed/index.xml"
 [sources.7]
 aka = ["Low Score Boy"]
 url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC1BjrXqfmHmBkM2FjBTdg-w"
-
-[sources.8]
-aka = ["MadcatClan"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC4P8jsqloj9e6eYCLz0yr7Q"
 
 [sources.9]
 aka = ["Martin Fowler"]
@@ -267,10 +243,6 @@ enabled = false
 [sources.20]
 aka = ["TeamNANOG"]
 url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCIvcN8QNgRGNW9osYLGsjQQ"
-
-[sources.21]
-aka = ["What's Next｜科技早知道"]
-url = "https://feeds.fireside.fm/guiguzaozhidao/rss"
 
 [sources.22]
 aka = ["WonderWhy"]
@@ -322,14 +294,6 @@ aka = ["sleele的博客"]
 url = "https://sleele.com/feed/"
 enabled = false
 
-[sources.34]
-aka = ["中外名案精选"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCzyFVLlEwO3jvd2sUkDj4Sg"
-
-[sources.35]
-aka = ["中指通"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCYjB6uufPeHSwuHs8wovLjg"
-
 [sources.36]
 aka = ["云原生实验室"]
 url = "https://fuckcloudnative.io/index.xml"
@@ -369,17 +333,10 @@ url = "https://blog.k8s.li/atom.xml"
 aka = ["杜屹东的博客"]
 url = "https://www.duyidong.com/atom.xml"
 
-[sources.48]
-aka = ["森纳映画"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCDNeEBgigHHGtJJOpHSnadA"
-
 [sources.49]
 aka = ["水晶命匣"]
 url = "http://ghoulich.xninja.org/feed"
 
-[sources.50]
-aka = ["游研社YYSTV"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCnq0zNFkSa8YFc3f1-7Q3mg"
 
 [sources.51]
 aka = ["王子亭的博客"]
@@ -394,9 +351,6 @@ aka = ["约伊兹的萌狼乡手札"]
 url = "https://blog.yoitsu.moe/feeds/all.atom.xml"
 
 
-[sources.56]
-aka = ["老裁缝陆林冲"]
-url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC8OLOWcQhNmw_BgRFKrOwpw"
 
 [sources.58]
 aka = ["茶歇驿站 - Gopher, OpenSource Fans, 成长之路有我相伴。"]
@@ -424,11 +378,6 @@ url = "https://www.podcastinit.com/feed/mp3/"
 aka = ["Think Fast, Talk Smart: Communication Techniques."]
 url = "https://rss.art19.com/think-fast-talk-smart"
 
-[sources.66]
-aka = ["ggtalk"]
-url = "https://talkcdn.swift.gg/static/rss.xml"
-enabled = false
-
 [sources.67]
 aka = ["内核恐慌"]
 url = "https://pan.icu/feed"
@@ -438,13 +387,7 @@ enabled = false
 aka = ["天才捕手FM"]
 url = "https://s1.proxy.wavpub.com/storyhunting.xml"
 
-[sources.69]
-aka = ["小人物 A Nobody"]
-url = "https://anobody.im/podcast/rss.xml"
 
-[sources.70]
-aka = ["捕蛇者说"]
-url = "https://pythonhunter.org/episodes/feed.xml"
 
 [sources.71]
 aka = ["疯投圈"]
@@ -455,9 +398,6 @@ aka = ["绵羊料理"]
 url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCiAuybSv94YrdXhrGECtAxQ"
 enabled = false
 
-[sources.73]
-aka = ["创业内幕 Startup Insider"]
-url = "https://www.ximalaya.com/album/20119986.xml"
 
 [sources.75]
 aka = ["Twitter - @breathing_funny"]
@@ -542,15 +482,3 @@ aka = ["1"]
 [sources."Hi! 上天不?"]
 url = "https://a-wing.top/feed.xml"
 aka = ["2"]
-
-[groups.default]
-update_interval = 15
-rate_limit = 0
-
-[groups.twitter]
-update_interval = 10
-rate_limit = 5
-
-[groups.bilibili]
-update_interval = 60
-rate_limit = 2
